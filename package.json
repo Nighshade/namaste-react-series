@@ -1,0 +1,31 @@
+{
+  "name": "nameste-react-deepanshu",
+  "version": "1.0.0",
+  "description": "this is namaste react course",
+  "scripts": {
+    "start": "rm -rf .parcel-cache && parcel index.html",
+    "build": "parcel build indexx.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nighshade/namaste-react-series.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "deepanshu dahiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nighshade/namaste-react-series/issues"
+  },
+  "homepage": "https://github.com/Nighshade/namaste-react-series#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
